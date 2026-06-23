@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rassedcomcom-cell.github.io/rassedcom/sitemap.xml
+
